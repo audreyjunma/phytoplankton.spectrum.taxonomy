@@ -25,4 +25,4 @@ See the proposal that I proposed to my mentor, Dr. Andrew Thompson, here: https:
 See images of figures from this notebook here: https://drive.google.com/drive/folders/1nP66t2jDdDY9OLX6wRbGs_ArgII7wbhY?usp=sharing
 
 ## Authors + Acknowledgements
-All code is original code written by Audrey Ma. Special thank you and acknowledgement to Dr. Andrew Thompson, director of Caltech's Linde and Maxine Center for Global Environmental Science, and Sarah Zhang, a current Caltech graduate student in Caltech's Linde and Maxine Center for Global Environmental Science, for mentoring this project.
+All code is original code written by Audrey Ma. Special thank you and acknowledgement to Dr. Andrew Thompson, director of Caltech's Linde and Maxine Center for Global Environmental Science, and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science, for mentoring this project.
