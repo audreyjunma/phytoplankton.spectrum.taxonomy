@@ -14,10 +14,10 @@ This Jupyter Notebook contains the code necessary to recreate all of my figures 
 
 ## Usage Requirements
 The notebook contains different directories that are referenced — of course, you can change them if you would like to, but if you would like to have directories that work with the notebook, create the following empty directories within your working directory (wherever you host this notebook).
-  1. one directory titled "sojawozniak" (don't include quotes), in which you should place all the files you downloaded from the above figshare link
-  2. one empty directory titled "poc_outputs"
-  3. one empty directory titled "argo_underice_outputs"
-  4. one empty directory titled "peek_netcdf"
+  1. One directory titled "sojawozniak" (don't include quotes), in which you should place all the files you downloaded from the above figshare link
+  2. One empty directory titled "poc_outputs"
+  3. One empty directory titled "argo_underice_outputs"
+  4. One empty directory titled "peek_netcdf"
 
 ## Usage Examples
 This notebook was initially created in an internship at Caltech's Linde and Maxine Center for Global Environmental Science.
