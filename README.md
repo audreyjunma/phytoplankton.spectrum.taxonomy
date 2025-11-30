@@ -1,5 +1,6 @@
 # Investigating the Impact of Sea Ice Thickness on Under-Ice Light Spectra and Its Consequences for Phytoplankton Communities and Carbon Export Efficiency in the Southern Ocean
-This Jupyter Notebook contains the code necessary to recreate all of my figures and work for my study on how under-ice light spectra affects the taxonomy of phytoplankton communities and how that impacts carbon export efficiency in the Southern Ocean. This project is currently mentored by Dr. Andrew Thompson, the director of Caltech's Linde and Maxine Center for Global Environmental Sciences and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science.
+
+This Jupyter Notebook contains the code necessary to recreate all of my figures and work for my self-study on how under-ice light spectra affects the taxonomy of phytoplankton communities and how that impacts carbon export efficiency in the Southern Ocean. This project is currently mentored by Dr. Andrew Thompson, the director of Caltech's Linde and Maxine Center for Global Environmental Sciences and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science.
 
 **NOTE:** This project is still in progress, and thus may be updated frequently.
 
@@ -25,4 +26,14 @@ See the proposal that I proposed to my mentor, Dr. Andrew Thompson, here: https:
 See images of figures from this notebook here: https://drive.google.com/drive/folders/1nP66t2jDdDY9OLX6wRbGs_ArgII7wbhY?usp=sharing
 
 ## Authors + Acknowledgements
-All code is original code written by Audrey Ma. Special thank you and acknowledgement to Dr. Andrew Thompson, director of Caltech's Linde and Maxine Center for Global Environmental Science, and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science, for mentoring this project.
+All code is original code written by Audrey Ma. Special thank you and acknowledgement to Dr. Andrew Thompson, director of Caltech's Linde and Maxine Center for Global Environmental Science, and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science, for mentoring this project. Another special acknowledgement goes to Dr. Brad Marston, currently the President-elect of the American Physics Society, who I spoke to after a lecture and connected me with resources that helped shape this project in its beginning stages. Additionally, like to specifically thank Dr. Soja-Wozniak, who I was in contact with and was immensely helpful in supporting my use of her files from her figshare.
+
+I would also like to acknowledge these papers that were helpful in this project:
+
+**"Ice Loss Is Transforming the Light-Absorption Properties of Seawater"**
+
+https://physics.aps.org/articles/v18/109#:~:text=This%20disappearing%20ice%20is%20narrowing,these%20icy%20regions%20of%20Earth
+
+*Soja-Wozniak et al. 2025* **"Loss of sea ice alters light spectra for aquatic photosynthesis"**
+
+https://www.nature.com/articles/s41467-025-59386-x?fromPaywallRec=false#citeas
