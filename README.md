@@ -1,5 +1,5 @@
 # Investigating the Impact of Sea Ice Thickness on Under-Ice Light Spectra and Its Consequences for Phytoplankton Communities and Carbon Export Efficiency in the Southern Ocean
-This Jupyter Notebook contains the code necessary to recreate all of my figures and work for my study on how under-ice light spectra affects the taxonomy of phytoplankton communities and how that impacts carbon export efficiency in the Southern Ocean. This project is currently mentored by Dr. Andrew Thompson, the director of Caltech's Linde and Maxine Center for Global Environmental Sciences.
+This Jupyter Notebook contains the code necessary to recreate all of my figures and work for my study on how under-ice light spectra affects the taxonomy of phytoplankton communities and how that impacts carbon export efficiency in the Southern Ocean. This project is currently mentored by Dr. Andrew Thompson, the director of Caltech's Linde and Maxine Center for Global Environmental Sciences and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science.
 
 **NOTE:** This project is still in progress, and thus may be updated frequently.
 
