@@ -23,6 +23,7 @@ The notebook contains different directories that are referenced — of course, y
 This notebook was initially created in an internship at Caltech's Linde and Maxine Center for Global Environmental Science.
 
 See the proposal that I proposed to my mentor, Dr. Andrew Thompson, here: https://docs.google.com/document/d/1OTRu5jwYZ_gxmuOqAVuG0Z2QTsgiwiNgTiicFJurzOQ/edit?usp=sharing
+
 See images of figures from this notebook here: https://drive.google.com/drive/folders/1nP66t2jDdDY9OLX6wRbGs_ArgII7wbhY?usp=sharing
 
 ## Authors + Acknowledgements
