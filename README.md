@@ -4,6 +4,10 @@ This Jupyter Notebook contains the code necessary to recreate all of my figures 
 
 **NOTE:** This project is still in progress, and thus may be updated frequently.
 
+**UPDATE/EDIT (10.24.2026)** I've written a paper on this research and submitted it to the Regeneron Science Talent Search! Read it here or see more information in the "Usage Examples" section below.
+
+Link to my research paper: https://docs.google.com/document/d/1XfoFa0Y8ysE1TJ_ynq-v5nkpm2ZJ28PmIDLRQglDmVw/edit?usp=sharing
+
 **I plan to use the results from research to update the ECCO-Darwin Earth Systems Model.**
 
 ## Installation Requirements
@@ -25,6 +29,8 @@ This notebook was initially created in an internship at Caltech's Linde and Maxi
 See the proposal that I proposed to my mentor, Dr. Andrew Thompson, here: https://docs.google.com/document/d/1OTRu5jwYZ_gxmuOqAVuG0Z2QTsgiwiNgTiicFJurzOQ/edit?usp=sharing
 
 See images of figures from this notebook here: https://drive.google.com/drive/folders/1nP66t2jDdDY9OLX6wRbGs_ArgII7wbhY?usp=sharing
+
+See the research paper I wrote and submitted to Regeneron Science Talent Search here: https://docs.google.com/document/d/1XfoFa0Y8ysE1TJ_ynq-v5nkpm2ZJ28PmIDLRQglDmVw/edit?usp=sharing
 
 ## Authors + Acknowledgements
 All code is original code written by Audrey Ma. Special thank you and acknowledgement to Dr. Andrew Thompson, director of Caltech's Linde and Maxine Center for Global Environmental Science, and Sarah Zhang, a current Caltech graduate student in the Linde and Maxine Center for Global Environmental Science, for mentoring this project. Another special acknowledgement goes to Dr. Brad Marston, currently the President-elect of the American Physics Society, who I spoke to after a lecture and connected me with resources that helped shape this project in its beginning stages. Additionally, like to specifically thank Dr. Soja-Wozniak, who I was in contact with and was immensely helpful in supporting my use of her files from her figshare.
