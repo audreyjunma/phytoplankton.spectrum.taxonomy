@@ -4,7 +4,7 @@ This Jupyter Notebook contains the code necessary to recreate all of my figures 
 
 **NOTE:** This project is still in progress, and thus may be updated frequently.
 
-**UPDATE/EDIT (10.24.2026)** I've written a paper on this research and submitted it to the Regeneron Science Talent Search! Read it here or see more information in the "Usage Examples" section below.
+**UPDATE/EDIT (10.24.2026):** I've written a paper on this research and submitted it to the Regeneron Science Talent Search! Read it here or see more information in the "Usage Examples" section below.
 
 Link to my research paper: https://docs.google.com/document/d/1XfoFa0Y8ysE1TJ_ynq-v5nkpm2ZJ28PmIDLRQglDmVw/edit?usp=sharing
 
